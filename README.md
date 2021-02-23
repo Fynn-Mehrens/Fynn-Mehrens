@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I am Fynn and I have been fascinated by technology since I was a little child. I started studying Software Engineering in the fall of 2019 and have been invested in sharpening my software development skills ever since. I got in touch with technologies in High school early on and then chose to pursue this career.
+Hi, I am Fynn and I have been fascinated by technology since I was a little child. I started studying Software Engineering in the fall of 2019 and have been invested in sharpening my software development skills ever since. I got in touch with software development in High school early on and then chose to pursue this career.
 
 ### My technology stack includes:
 
