@@ -10,6 +10,7 @@ Hi, I am Fynn and I have been fascinated by technology since I was a little chil
 * HTML & CSS
 * PHP
 * C / C#
+* Swift
 * R (Data Science)
 * SQL
 * MarkDown, AsciiDoc & LaTeX
